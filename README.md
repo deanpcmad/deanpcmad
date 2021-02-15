@@ -27,6 +27,7 @@ I've written a few different RubyGems:
 - [codebase_api](https://rubygems.org/gems/codebase_api) - A wrapper for accessing the Codebase (codebasehq.com) API
 - [shoppe-paypal](https://rubygems.org/gems/shoppe-paypal) - A plugin for Shoppe, an ecommerce Rails engine (which I also helped maintain), which adds support for taking payments with PayPal
 
+<!--
 I've worked with a few different clients:
 
 - Hillcrest Animal Hospital
@@ -37,4 +38,4 @@ I've worked with a few different clients:
   - Maintaining existing and building new Rails applications
 - OceansHQ Ltd
   - Helped work on a feature which connected a legacy service with a new Rails app  
-  
+-->

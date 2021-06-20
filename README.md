@@ -9,11 +9,11 @@ You can find me on [Twitter](https://twitter.com/deanpcmad) or you can view my s
 My current projects are:
 
 - [Florence Bot](https://deanpcmad.com/florencebot/) - A Twitch chat bot and game giveaway system
-- TwitchRB (WIP & not open source yet) - A RubyGem for interacting with both the Twitch.tv Kraken and Helix APIs
-- PaddleRB (WIP & not open source yet) - A RubyGem for interacting with the Paddle.com API
-- TTVAPI (WIP & not open source yet) - A Rails app which gives streamers easy ways to access Twitch APIs such as their subscriber count
-- StreamVODs (Currently in private beta) - A service which allows streamers to upload their YouTube videos and show then with Twitch chat, as they would do on the Twitch site but stored forever
+- [TwitchRB](https://github.com/deanpcmad/twitchrb) (WIP) - A RubyGem for interacting with both the Twitch Helix and Kraken APIs
+- [StreamVODs](https://streamvods.com) - A service which allows streamers to upload their YouTube videos and show then with Twitch chat, as they would do on the Twitch site but stored forever
 - Secret Project (Currently in development) - A service for streamers for creating alerts and taking donations
+- BillyRB (WIP & not open source yet) - A Rails engine for Stripe Subscription billing
+- TTVAPI (WIP & not open source yet) - A Rails app which gives streamers easy ways to access Twitch APIs such as their subscriber count
 
 I've worked on / helped maintain a number of open source projects such as:
 

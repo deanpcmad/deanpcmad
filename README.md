@@ -17,10 +17,10 @@ My current projects are:
 
 I've worked on / helped maintain a number of open source projects such as:
 
-- [ror_ecommerce](drhenner/ror_ecommerce)
+- [ror_ecommerce](https://github.com/drhenner/ror_ecommerce)
   - I helped to maintain this project by checking pull requests and merging as required
   - Migrated the admin area design to ZURB Foundation
-- [shoppe](tryshoppe/shoppe)
+- [shoppe](https://github.com/tryshoppe/shoppe)
   - I helped to maintain this project by checking pull requests and merging as required
   - Also helped by adding new features
 

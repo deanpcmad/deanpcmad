@@ -8,8 +8,9 @@ You can find me on [Twitter](https://twitter.com/deanpcmad) or you can view my s
 
 My current projects are:
 
-- [Florence Bot](https://deanpcmad.com/florencebot/) - A Twitch chat bot and game giveaway system
-- [StreamVODs](https://streamvods.com) - A service which allows streamers to upload their YouTube videos and show then with Twitch chat, as they would do on the Twitch site but stored forever
+- [Florence Bot](https://deanpcmad.com/florencebot/) - A custom Twitch chat bot and game giveaway system with commands, quotes and more!
+- [Fremily chat extension](https://florencebot.com/extension) - A browser extension which allows users to view chat name colours and badges in their browser, just like Fremily do with their on-screen chat
+- [StreamVODs](https://streamvods.com) - A service which allows streamers to backup their Twitch streams to YouTube. It also allows users to watch them back with chat as they were live!
 - TTVAPI (WIP & not open source yet) - A Rails app which gives streamers easy ways to access Twitch APIs such as their subscriber count & subscriber points
 - TwitchRB (WIP) - A Ruby library for interacting with the Twitch Helix API
 <!--

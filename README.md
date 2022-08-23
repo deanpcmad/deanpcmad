@@ -19,7 +19,7 @@ My current projects are:
 
 My current open source projects are:
 
-- [sidekiq-limit_fetch](https://github.com/deanpcmad/sidekiq-limit_fetch) - A Sidekiq plugin to support advanced queue control (limiting, pausing, blocking, querying). I took this project over from March 2022.
+- [sidekiq-limit_fetch](https://github.com/deanpcmad/sidekiq-limit_fetch) - A Sidekiq plugin to support advanced queue control (limiting, pausing, blocking, querying). I took this project over in March 2022.
 - [TwitchRB](https://github.com/deanpcmad/twitchrb) - A Ruby library for interacting with the Twitch Helix API
 - [PaddleRB](https://github.com/deanpcmad/paddlerb) - A Ruby library for interacting with the Paddle.com API
 

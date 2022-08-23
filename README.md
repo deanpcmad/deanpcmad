@@ -11,12 +11,17 @@ My current projects are:
 - [Florence Bot](https://deanpcmad.com/florencebot/) - A custom Twitch chat bot and game giveaway system with commands, quotes and more!
 - [Fremily chat extension](https://florencebot.com/extension) - A browser extension which allows users to view chat name colours and badges in their browser, just like Fremily do with their on-screen chat
 - [StreamVODs](https://streamvods.com) - A service which allows streamers to backup their Twitch streams to YouTube. It also allows users to watch them back with chat as they were live!
-- TTVAPI (WIP & not open source yet) - A Rails app which gives streamers easy ways to access Twitch APIs such as their subscriber count & subscriber points
-- TwitchRB (WIP) - A Ruby library for interacting with the Twitch Helix API
+- [Subpoints](https://subpoints.com) - A tool for Twitch streamers to show their subscriber and subscriber points counts on a stream overlay.
 <!--
-- Secret Project (Currently in development) - A service for streamers for creating alerts and taking donations
-- BillyRB (WIP & not open source yet) - A Rails engine for Stripe Subscription billing
+- TTVAPI (WIP & not open source yet) - A Rails app which gives streamers easy ways to access Twitch APIs such as their subscriber count & subscriber points
+- BillyRB (WIP & not open source yet) - A Rails engine for Paddle Subscription billing
 -->
+
+My current open source projects are:
+
+- [sidekiq-limit_fetch](https://github.com/deanpcmad/sidekiq-limit_fetch) - A Sidekiq plugin to support advanced queue control (limiting, pausing, blocking, querying). I took this project over from March 2022.
+- [TwitchRB](https://github.com/deanpcmad/twitchrb) - A Ruby library for interacting with the Twitch Helix API
+- [PaddleRB](https://github.com/deanpcmad/paddlerb) - A Ruby library for interacting with the Paddle.com API
 
 I've worked on / helped maintain a number of open source projects such as:
 

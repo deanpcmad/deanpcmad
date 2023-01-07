@@ -2,7 +2,7 @@
 
 I'm Dean. I'm a Ruby on Rails developer based in the UK. I've been working with Ruby for 10 years and have built and maintained hundreds of Rails apps over that time. I also maintain and administer multiple Linux servers.
 
-If you like my work, please consider [buying me a coffee](https://www.buymeacoffee.com/deanpcmad) - every coffee is really appreciated!
+If you like my work, please consider [buying me a coffee](https://ko-fi.com/deanpcmad) - every coffee is really appreciated!
 
 You can find me on [Twitter](https://twitter.com/deanpcmad) or you can view my site at [deanpcmad.com](https://deanpcmad.com)
 
@@ -12,10 +12,6 @@ My current projects are:
 - [Fremily chat extension](https://florencebot.com/extension) - A browser extension which allows users to view chat name colours and badges in their browser, just like Fremily do with their on-screen chat
 - [StreamVODs](https://streamvods.com) - A service which allows streamers to backup their Twitch streams to YouTube. It also allows users to watch them back with chat as they were live!
 - [Subpoints](https://subpoints.com) - A tool for Twitch streamers to show their subscriber and subscriber points counts on a stream overlay.
-<!--
-- TTVAPI (WIP & not open source yet) - A Rails app which gives streamers easy ways to access Twitch APIs such as their subscriber count & subscriber points
-- BillyRB (WIP & not open source yet) - A Rails engine for Paddle Subscription billing
--->
 
 My current open source projects are:
 

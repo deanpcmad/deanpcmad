@@ -18,6 +18,8 @@ My current open source projects are:
 - [sidekiq-limit_fetch](https://github.com/deanpcmad/sidekiq-limit_fetch) - A Sidekiq plugin to support advanced queue control (limiting, pausing, blocking, querying). I took this project over in March 2022.
 - [TwitchRB](https://github.com/deanpcmad/twitchrb) - A Ruby library for the Twitch Helix API
 - [PaddleRB](https://github.com/deanpcmad/paddlerb) - A Ruby library for the Paddle Billing & Classic APIs
+- [BuildkiteRB](https://github.com/deanpcmad/buildkiterb) - A Ruby library for the Buildkite API
+- [Logsnag](https://github.com/deanpcmad/logsnag) - A Ruby library for the Logsnag API
 
 I've worked on / helped maintain a number of open source projects such as:
 
@@ -29,11 +31,6 @@ I've worked on / helped maintain a number of open source projects such as:
   - Also helped by adding new features
 
 <!--
-I've written a few different RubyGems:
-
-- [codebase_api](https://rubygems.org/gems/codebase_api) - A wrapper for accessing the Codebase (codebasehq.com) API
-- [shoppe-paypal](https://rubygems.org/gems/shoppe-paypal) - A plugin for Shoppe, an ecommerce Rails engine (which I also helped maintain), which adds support for taking payments with PayPal
-
 I've worked with a few different clients:
 
 - Hillcrest Animal Hospital

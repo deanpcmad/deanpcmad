@@ -24,10 +24,13 @@ My current open source projects are:
 
 I've worked on / helped maintain a number of open source projects such as:
 
-- [ror_ecommerce](https://github.com/drhenner/ror_ecommerce)
+- [Pay](https://github.com/pay-rails/pay) - A payments library for Rails
+  - Added support for Paddle Billing
+  - Work on updating documentation
+- [ror_ecommerce](https://github.com/drhenner/ror_ecommerce) - A Rails e-commerce platform
   - I helped to maintain this project by checking pull requests and merging as required
   - Migrated the admin area design to ZURB Foundation
-- [shoppe](https://github.com/tryshoppe/shoppe)
+- [Shoppe](https://github.com/tryshoppe/shoppe) - A Rails e-commerce platform, which is no longer supported
   - I helped to maintain this project by checking pull requests and merging as required
   - Also helped by adding new features
 

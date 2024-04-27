@@ -18,14 +18,13 @@ My current open source projects are:
 - [sidekiq-limit_fetch](https://github.com/deanpcmad/sidekiq-limit_fetch) - A Sidekiq plugin to support advanced queue control (limiting, pausing, blocking, querying). I took this project over in March 2022.
 - [TwitchRB](https://github.com/deanpcmad/twitchrb) - A Ruby library for the Twitch Helix API
 - [Paddle](https://github.com/deanpcmad/paddle) - A Ruby library for the Paddle Billing & Classic APIs
-- [Buildtea](https://github.com/deanpcmad/buildtea) - A tool to connect Gitea and Buildkite together
-- [BuildkiteRB](https://github.com/deanpcmad/buildkiterb) - A Ruby library for the Buildkite API
-- [Logsnag](https://github.com/deanpcmad/logsnag) - A Ruby library for the Logsnag API
+- [LemonSqueezy](https://github.com/deanpcmad/lemonsqueezy) - A Ruby library for the Lemon Squeezy API
 
 I've worked on / helped maintain a number of open source projects such as:
 
 - [Pay](https://github.com/pay-rails/pay) - A payments library for Rails
   - Added support for Paddle Billing
+  - Working on support for Lemon Squeezy
   - Work on updating documentation
 - [ror_ecommerce](https://github.com/drhenner/ror_ecommerce) - A Rails e-commerce platform
   - I helped to maintain this project by checking pull requests and merging as required
@@ -33,16 +32,3 @@ I've worked on / helped maintain a number of open source projects such as:
 - [Shoppe](https://github.com/tryshoppe/shoppe) - A Rails e-commerce platform, which is no longer supported
   - I helped to maintain this project by checking pull requests and merging as required
   - Also helped by adding new features
-
-<!--
-I've worked with a few different clients:
-
-- Hillcrest Animal Hospital
-  - Maintaining their Intranet Rails application
-  - Building a central authentication service for new apps
-  - Building multiple new applications over the past 5 years
-- DannyWeb Ltd
-  - Maintaining existing and building new Rails applications
-- OceansHQ Ltd
-  - Helped work on a feature which connected a legacy service with a new Rails app  
--->

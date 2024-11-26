@@ -9,7 +9,6 @@ You can find me on [Twitter](https://twitter.com/deanpcmad) or you can view my s
 My current projects are:
 
 - [Florence Bot](https://deanpcmad.com/florencebot/) - A custom Twitch chat bot and game giveaway system with commands, quotes and more!
-- [Fremily chat extension](https://florencebot.com/extension) - A browser extension which allows users to view chat name colours and badges in their browser, just like Fremily do with their on-screen chat
 - [StreamVODs](https://streamvods.com) - A service which allows streamers to backup their Twitch streams to YouTube. It also allows users to watch them back with chat as they were live!
 - [Subpoints](https://subpoints.com) - A tool for Twitch streamers to show their subscriber and subscriber points counts on a stream overlay.
 
@@ -23,8 +22,7 @@ My current open source projects are:
 I've worked on / helped maintain a number of open source projects such as:
 
 - [Pay](https://github.com/pay-rails/pay) - A payments library for Rails
-  - Added support for Paddle Billing
-  - Working on support for Lemon Squeezy
+  - Added support for Paddle Billing and Lemon Squeezy
   - Work on updating documentation
 - [ror_ecommerce](https://github.com/drhenner/ror_ecommerce) - A Rails e-commerce platform
   - I helped to maintain this project by checking pull requests and merging as required

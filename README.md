@@ -8,7 +8,7 @@ You can find me on [Twitter](https://twitter.com/deanpcmad) or you can view my s
 
 My current projects are:
 
-- [Florence Bot](https://deanpcmad.com/florencebot/) - A custom Twitch chat bot and game giveaway system with commands, quotes and more!
+- [FlowBot (aka FlorenceBot)](https://deanpcmad.com/florencebot/) - A custom Twitch chat bot and game giveaway system with commands, quotes and more!
 - [StreamVODs](https://streamvods.com) - A service which allows streamers to backup their Twitch streams to YouTube. It also allows users to watch them back with chat as they were live!
 - [Subpoints](https://subpoints.com) - A tool for Twitch streamers to show their subscriber and subscriber points counts on a stream overlay.
 
